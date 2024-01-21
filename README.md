@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://nihalcy.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://nihalcy.netlify.app/" height="30" width="40" /></a>
+<a href="https://dev.to/nihalcy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://nihalcy.netlify.app/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nihalcy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nihalcy/" height="30" width="40" /></a>
 </p>
 
