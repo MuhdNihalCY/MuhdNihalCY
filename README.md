@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Node.js, Express, MongoDB, React**
 
-- 📄 Know about my experiences [Resume](http://bit.ly/4264TMC)
+- 📄 Know about my experiences [Resume](https://nihalcy.netlify.app/public/MuhammedNihalCY_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
