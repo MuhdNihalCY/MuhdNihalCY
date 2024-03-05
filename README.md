@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nihal C Y</h1>
 <h3 align="center">A passionate MERN developer from India, Kerala</h3>
 
-- 🔭 I’m currently working on **Freelance Projects**
+- 🔭 **Currently doing internship at [Zennode Technologies](https://www.zennode.com/), Kozhikode**
 
-- 🌱 I’m currently learning **React, Next.js**
+- 🌱 **Learning and exploring the world of Plugins Development**
 
-- 🤝 I’m looking for a **Junior MERN role**
+[comment]: <> (💻 **Seeking a Junior MERN role to contribute my skills and passion**)
 
-- 👨‍💻 All of my projects are available at [https://nihalcy.netlify.app/](https://nihalcy.netlify.app/)
+- 👨‍💻 **Check out my portfolio: [https://nihalcy.netlify.app/](https://nihalcy.netlify.app/)**
 
-- 💬 Ask me about **Node.js, Express, MongoDB, React**
+- 💬 **Let's talk about anything related to Software Development!**
 
 - 📄 Know about my experiences [Resume](https://nihalcy.netlify.app/public/MuhammedNihalCY_Resume.pdf)
 
