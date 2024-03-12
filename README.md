@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihal C Y</h1>
-<h3 align="center">A passionate Software developer from India, Kerala</h3>
+<h3 align="center">A passionate Software developer from Kerala, India</h3>
 
 - 🔭 **Currently doing internship at [Zennode Technologies](https://www.zennode.com/), Kozhikode**
 
