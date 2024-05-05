@@ -3,7 +3,7 @@
 
 - 🔭 **Currently doing internship at [Zennode Technologies](https://www.zennode.com/), Kozhikode**
 
-- 🌱 **Learning and exploring the world of Plugins Development**
+- 🌱 **Learning and exploring the world of Software Development**
 
 [comment]: <> (💻 **Seeking a Junior MERN role to contribute my skills and passion**)
 
