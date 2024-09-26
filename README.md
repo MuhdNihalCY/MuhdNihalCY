@@ -11,7 +11,7 @@
 
 - 💬 **Let's talk about anything related to Software Development!**
 
-- 📄 Know about my experiences [Resume](https://nihalcy.netlify.app/public/MuhammedNihalCY_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/search?q=resume])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
