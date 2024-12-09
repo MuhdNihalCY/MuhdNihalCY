@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nihal C Y</h1>
 <h3 align="center">A passionate Software developer from Kerala, India.</h3>
 
-- 🔭 **Currently doing internship at [Zennode Technologies](https://www.zennode.com/), Kozhikode**
+- 🔭 **Currently working at [Zennode Technologies](https://www.zennode.com/), Kozhikode**
 
 - 🌱 **Learning and exploring the world of Software Development**
 
-[comment]: <> (💻 **Seeking a Junior MERN role to contribute my skills and passion**)
+[comment]: <> (💻 **Seeking a MERN role to contribute my skills and passion**)
 
 - 👨‍💻 **Check out my portfolio: [https://nihalcy.netlify.app/](https://nihalcy.netlify.app/)**
 
