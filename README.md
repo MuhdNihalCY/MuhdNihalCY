@@ -9,7 +9,7 @@
 
 - 👨‍💻 **Check out my portfolio: [https://nihalcy.netlify.app/](https://nihalcy.netlify.app/)**
 
-- 💬 **Let's talk about anything related to Software Development!**
+<!-- - 💬 **Let's talk about anything related to Software Development!** -->
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PqZJyfoRtjdQp2Zzq5y4m17SQoE8MkmT/view?usp=sharing)
 
