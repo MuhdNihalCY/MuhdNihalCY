@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nihal C Y</h1>
 <h3 align="center">A passionate Software developer from Kerala, India.</h3>
 
-- 🔭 **Currently working at [Zennode Technologies](https://www.zennode.com/), Kozhikode**
+<!-- - 🔭 **Currently working at [Zennode Technologies](https://www.zennode.com/), Kozhikode**  -->
 
 - 🌱 **Learning and exploring the world of Software Development**
 
