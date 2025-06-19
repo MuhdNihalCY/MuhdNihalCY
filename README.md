@@ -7,7 +7,7 @@
 
 [comment]: <> (💻 **Seeking a MERN role to contribute my skills and passion**)
 
-- 👨‍💻 **Check out my portfolio: [https://nihalcy.netlify.app/](https://nihalcy.netlify.app/)**
+- 👨‍💻 **Check out my portfolio: [https://mnihalcy.netlify.app/](https://mnihalcy.netlify.app/)**
 
 - 💬 **Let's talk about anything related to Software Development!** 
 
