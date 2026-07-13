@@ -2,7 +2,9 @@
 
 # Hi 👋, I'm Muhammed Nihal C Y
 
-### Full-Stack Developer · Node.js & React · Kerala → Bangalore, India
+<a href="https://mnihalcy.netlify.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=800&color=6DA55F&center=true&vCenter=true&width=650&height=60&lines=Full-Stack+Developer;Node.js+%26+React+Engineer;WordPress+plugins+powering+500%2C000%2B+sites;Scalable+SaaS+%7C+Microservices+%7C+System+Design;Kerala+%E2%86%92+Bangalore%2C+India" alt="Typing SVG" />
+</a>
 
 *I build scalable SaaS platforms and high-performance WordPress plugins that power **500,000+ websites** worldwide.*
 
