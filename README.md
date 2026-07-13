@@ -81,10 +81,12 @@
 
 <div align="center">
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhdnihalcy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhdnihalcy&layout=compact&theme=radical"/> -->
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhdnihalcy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Nihal's GitHub stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhdnihalcy&layout=compact&theme=radical&cache_seconds=1800" alt="Top languages"/> -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhdnihalcy&theme=radical" alt="GitHub Streak"/>
+<!-- <br/> -->
+
+<img src="https://streak-stats.demolab.com/?user=muhdnihalcy&theme=radical" alt="GitHub Streak"/>
 
 </div>
 
