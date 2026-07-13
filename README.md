@@ -25,7 +25,7 @@
 
 - 🔭 &nbsp;Currently a **Full-Stack Developer at Apoxeo Solutions**, leading the ERP team — architecture, microservices, and an in-house AI chatbot.
 - 🧩 &nbsp;Ex-**Zennode Technologies** — architected high-traffic WordPress plugins & microservices serving **500K+ e-commerce instances**.
-- ⚡ &nbsp;Obsessed with **system design, performance tuning** and clean, maintainable code.
+- ⚡ &nbsp;Obsessed with **system design, security, performance tuning** and clean, maintainable code.
 - 🌱 &nbsp;Always exploring the deeper corners of backend architecture, DevOps, and AI-powered products.
 - 💬 &nbsp;Ask me about **Node.js · NestJS · Next.js · WordPress at scale · Postgres/Prisma · BullMQ**.
 
