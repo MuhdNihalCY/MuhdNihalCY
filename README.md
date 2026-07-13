@@ -24,7 +24,6 @@
 ## 🚀 About Me
 
 - 🔭 &nbsp;Currently a **Full-Stack Developer at Apoxeo Solutions**, leading the ERP team — architecture, microservices, and an in-house AI chatbot.
-- 🏗️ &nbsp;Scaled an ERP from single-branch to **multi-branch architecture** with Node.js, Express & microservices.
 - 🧩 &nbsp;Ex-**Zennode Technologies** — architected high-traffic WordPress plugins & microservices serving **500K+ e-commerce instances**.
 - ⚡ &nbsp;Obsessed with **system design, performance tuning, Core Web Vitals** and clean, maintainable code.
 - 🌱 &nbsp;Always exploring the deeper corners of backend architecture, DevOps, and AI-powered products.
