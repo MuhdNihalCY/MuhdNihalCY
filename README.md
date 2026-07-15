@@ -10,7 +10,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=6DA55F&text=Muhammed%20Nihal%20C%20Y&section=header&reversal=false&fontColor=ffff&fontSize=42" />
 
 <a href="https://mnihalcy.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=800&color=6DA55F&center=true&vCenter=true&width=650&height=60&lines=Full-Stack+Developer;Node.js+%26+React+Engineer;WordPress+plugins+powering+500%2C000%2B+sites;Scalable+SaaS+%7C+Microservices+%7C+System+Design;Kerala+%E2%86%92+Bangalore%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=800&color=6DA55F&center=true&vCenter=true&width=650&height=60&lines=Full-Stack+Developer;Node.js+%26+React+Engineer;WordPress+plugins+powering+500%2C000%2B+sites;SaaS+%7C+Microservices+%7C+System+Design;Kerala+%E2%86%92+Bangalore%2C+India" alt="Typing SVG" />
 </a>
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=6DA55F&height=3" /> -->
 
